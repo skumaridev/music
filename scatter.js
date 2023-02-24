@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    var TITLE = 'Correlation between Top 30 streams and Number of weeks stayed on chart, 2021-22';
+    var TITLE = 'Correlation between Top streams vs Number of weeks stayed on chart, 2021-22';
   
     var POINT_X = 'streams'; // column name for x values in data.csv
     var POINT_X_PREFIX = ''; // prefix for x values, eg '$'
